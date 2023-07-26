@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  @apply inline-block py-3 px-3 text-white bg-black rounded-xl;
+}
